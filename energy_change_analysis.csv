@@ -1,0 +1,313 @@
+region,state,energy_type,start_date,end_date,start_value,end_value,change,change_sign
+Eastern,Andaman & Nicobar Islands,coal,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Eastern,Andaman & Nicobar Islands,gas,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Eastern,Andaman & Nicobar Islands,diesel,2019-01-01,2023-12-01,40.05,92.71,52.66,Increase
+Eastern,Andaman & Nicobar Islands,thermal_total,2019-01-01,2023-12-01,40.05,92.71,52.66,Increase
+Eastern,Andaman & Nicobar Islands,nuclear,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Eastern,Andaman & Nicobar Islands,hydro,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Eastern,Andaman & Nicobar Islands,res,2019-01-01,2023-12-01,11.81,35.16,23.349999999999994,Increase
+Eastern,Andaman & Nicobar Islands,grand_total,2019-01-01,2023-12-01,51.86,127.87,76.01,Increase
+Eastern,Bihar,coal,2019-01-01,2023-12-01,5480.0,9060.0,3580.0,Increase
+Eastern,Bihar,gas,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Eastern,Bihar,diesel,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Eastern,Bihar,thermal_total,2019-01-01,2023-12-01,5480.0,9060.0,3580.0,Increase
+Eastern,Bihar,nuclear,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Eastern,Bihar,hydro,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Eastern,Bihar,res,2019-01-01,2023-12-01,326.15,420.26,94.11000000000001,Increase
+Eastern,Bihar,grand_total,2019-01-01,2023-12-01,5806.15,9480.26,3674.1100000000006,Increase
+Eastern,Jharkhand,coal,2019-01-01,2023-12-01,4590.0,4910.0,320.0,Increase
+Eastern,Jharkhand,gas,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Eastern,Jharkhand,diesel,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Eastern,Jharkhand,thermal_total,2019-01-01,2023-12-01,4590.0,4910.0,320.0,Increase
+Eastern,Jharkhand,nuclear,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Eastern,Jharkhand,hydro,2019-01-01,2023-12-01,210.0,210.0,0.0,No Change
+Eastern,Jharkhand,res,2019-01-01,2023-12-01,36.46,139.92,103.45999999999998,Increase
+Eastern,Jharkhand,grand_total,2019-01-01,2023-12-01,4836.46,5259.92,423.46000000000004,Increase
+Eastern,Odisha,coal,2019-01-01,2023-12-01,7680.0,9540.0,1860.0,Increase
+Eastern,Odisha,gas,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Eastern,Odisha,diesel,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Eastern,Odisha,thermal_total,2019-01-01,2023-12-01,7680.0,9540.0,1860.0,Increase
+Eastern,Odisha,nuclear,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Eastern,Odisha,hydro,2019-01-01,2023-12-01,2142.25,2154.55,12.300000000000182,Increase
+Eastern,Odisha,res,2019-01-01,2023-12-01,504.43,647.88,143.45,Increase
+Eastern,Odisha,grand_total,2019-01-01,2023-12-01,10326.68,12342.43,2015.75,Increase
+Eastern,Sikkim,coal,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Eastern,Sikkim,gas,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Eastern,Sikkim,diesel,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Eastern,Sikkim,thermal_total,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Eastern,Sikkim,nuclear,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Eastern,Sikkim,hydro,2019-01-01,2023-12-01,2169.0,2282.0,113.0,Increase
+Eastern,Sikkim,res,2019-01-01,2023-12-01,52.12,59.8,7.68,Increase
+Eastern,Sikkim,grand_total,2019-01-01,2023-12-01,2221.12,2341.8,120.68000000000029,Increase
+Eastern,West Bengal,coal,2019-01-01,2023-12-01,14275.0,13487.0,-788.0,Decrease
+Eastern,West Bengal,gas,2019-01-01,2023-12-01,100.0,80.0,-20.0,Decrease
+Eastern,West Bengal,diesel,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Eastern,West Bengal,thermal_total,2019-01-01,2023-12-01,14375.0,13567.0,-808.0,Decrease
+Eastern,West Bengal,nuclear,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Eastern,West Bengal,hydro,2019-01-01,2023-12-01,1341.2,1341.2,0.0,No Change
+Eastern,West Bengal,res,2019-01-01,2023-12-01,440.82,636.02,195.2,Increase
+Eastern,West Bengal,grand_total,2019-01-01,2023-12-01,16157.02,15544.22,-612.8000000000011,Decrease
+North Eastern,Arunachal Pradesh,coal,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+North Eastern,Arunachal Pradesh,gas,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+North Eastern,Arunachal Pradesh,diesel,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+North Eastern,Arunachal Pradesh,thermal_total,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+North Eastern,Arunachal Pradesh,nuclear,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+North Eastern,Arunachal Pradesh,hydro,2019-01-01,2023-12-01,515.0,1115.0,600.0,Increase
+North Eastern,Arunachal Pradesh,res,2019-01-01,2023-12-01,112.49,144.9,32.41000000000001,Increase
+North Eastern,Arunachal Pradesh,grand_total,2019-01-01,2023-12-01,627.49,1259.9,632.4100000000001,Increase
+North Eastern,Assam,coal,2019-01-01,2023-12-01,500.0,750.0,250.0,Increase
+North Eastern,Assam,gas,2019-01-01,2023-12-01,643.7,597.36,-46.34000000000003,Decrease
+North Eastern,Assam,diesel,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+North Eastern,Assam,thermal_total,2019-01-01,2023-12-01,1143.7,1347.36,203.65999999999985,Increase
+North Eastern,Assam,nuclear,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+North Eastern,Assam,hydro,2019-01-01,2023-12-01,350.0,350.0,0.0,No Change
+North Eastern,Assam,res,2019-01-01,2023-12-01,50.79,191.92,141.13,Increase
+North Eastern,Assam,grand_total,2019-01-01,2023-12-01,1544.49,1889.28,344.78999999999996,Increase
+North Eastern,Manipur,coal,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+North Eastern,Manipur,gas,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+North Eastern,Manipur,diesel,2019-01-01,2023-12-01,36.0,36.0,0.0,No Change
+North Eastern,Manipur,thermal_total,2019-01-01,2023-12-01,36.0,36.0,0.0,No Change
+North Eastern,Manipur,nuclear,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+North Eastern,Manipur,hydro,2019-01-01,2023-12-01,105.0,105.0,0.0,No Change
+North Eastern,Manipur,res,2019-01-01,2023-12-01,8.04,18.49,10.45,Increase
+North Eastern,Manipur,grand_total,2019-01-01,2023-12-01,149.04,159.49,10.450000000000017,Increase
+North Eastern,Meghalaya,coal,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+North Eastern,Meghalaya,gas,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+North Eastern,Meghalaya,diesel,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+North Eastern,Meghalaya,thermal_total,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+North Eastern,Meghalaya,nuclear,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+North Eastern,Meghalaya,hydro,2019-01-01,2023-12-01,322.0,322.0,0.0,No Change
+North Eastern,Meghalaya,res,2019-01-01,2023-12-01,31.11,73.02,41.91,Increase
+North Eastern,Meghalaya,grand_total,2019-01-01,2023-12-01,353.11,395.02,41.90999999999997,Increase
+North Eastern,Mizoram,coal,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+North Eastern,Mizoram,gas,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+North Eastern,Mizoram,diesel,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+North Eastern,Mizoram,thermal_total,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+North Eastern,Mizoram,nuclear,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+North Eastern,Mizoram,hydro,2019-01-01,2023-12-01,60.0,60.0,0.0,No Change
+North Eastern,Mizoram,res,2019-01-01,2023-12-01,36.67,75.9,39.230000000000004,Increase
+North Eastern,Mizoram,grand_total,2019-01-01,2023-12-01,96.67,135.9,39.230000000000004,Increase
+North Eastern,Nagaland,coal,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+North Eastern,Nagaland,gas,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+North Eastern,Nagaland,diesel,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+North Eastern,Nagaland,thermal_total,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+North Eastern,Nagaland,nuclear,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+North Eastern,Nagaland,hydro,2019-01-01,2023-12-01,75.0,75.0,0.0,No Change
+North Eastern,Nagaland,res,2019-01-01,2023-12-01,31.67,35.84,4.170000000000002,Increase
+North Eastern,Nagaland,grand_total,2019-01-01,2023-12-01,106.67,110.84,4.170000000000002,Increase
+North Eastern,Tripura,coal,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+North Eastern,Tripura,gas,2019-01-01,2023-12-01,1132.1,1067.6,-64.5,Decrease
+North Eastern,Tripura,diesel,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+North Eastern,Tripura,thermal_total,2019-01-01,2023-12-01,1132.1,1067.6,-64.5,Decrease
+North Eastern,Tripura,nuclear,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+North Eastern,Tripura,hydro,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+North Eastern,Tripura,res,2019-01-01,2023-12-01,21.1,34.48,13.379999999999995,Increase
+North Eastern,Tripura,grand_total,2019-01-01,2023-12-01,1153.2,1102.08,-51.12000000000012,Decrease
+Northern,Chandigarh,coal,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Northern,Chandigarh,gas,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Northern,Chandigarh,diesel,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Northern,Chandigarh,thermal_total,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Northern,Chandigarh,nuclear,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Northern,Chandigarh,hydro,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Northern,Chandigarh,res,2019-01-01,2023-12-01,32.4,64.05,31.65,Increase
+Northern,Chandigarh,grand_total,2019-01-01,2023-12-01,32.4,64.05,31.65,Increase
+Northern,Delhi,coal,2019-01-01,2023-12-01,135.0,0.0,-135.0,Decrease
+Northern,Delhi,gas,2019-01-01,2023-12-01,2208.4,2208.4,0.0,No Change
+Northern,Delhi,diesel,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Northern,Delhi,thermal_total,2019-01-01,2023-12-01,2343.4,2208.4,-135.0,Decrease
+Northern,Delhi,nuclear,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Northern,Delhi,hydro,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Northern,Delhi,res,2019-01-01,2023-12-01,176.21,321.29,145.08,Increase
+Northern,Delhi,grand_total,2019-01-01,2023-12-01,2519.61,2529.69,10.079999999999927,Increase
+Northern,Haryana,coal,2019-01-01,2023-12-01,5540.0,5330.0,-210.0,Decrease
+Northern,Haryana,gas,2019-01-01,2023-12-01,431.59,431.59,0.0,No Change
+Northern,Haryana,diesel,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Northern,Haryana,thermal_total,2019-01-01,2023-12-01,5971.59,5761.59,-210.0,Decrease
+Northern,Haryana,nuclear,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Northern,Haryana,hydro,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Northern,Haryana,res,2019-01-01,2023-12-01,411.99,1579.67,1167.68,Increase
+Northern,Haryana,grand_total,2019-01-01,2023-12-01,6383.58,7341.26,957.6800000000003,Increase
+Northern,Himachal Pradesh,coal,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Northern,Himachal Pradesh,gas,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Northern,Himachal Pradesh,diesel,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Northern,Himachal Pradesh,thermal_total,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Northern,Himachal Pradesh,nuclear,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Northern,Himachal Pradesh,hydro,2019-01-01,2023-12-01,9809.02,10263.02,454.0,Increase
+Northern,Himachal Pradesh,res,2019-01-01,2023-12-01,864.5,1091.46,226.96000000000004,Increase
+Northern,Himachal Pradesh,grand_total,2019-01-01,2023-12-01,10673.52,11354.48,680.9599999999991,Increase
+Northern,Jammu and Kashmir,coal,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Northern,Jammu and Kashmir,gas,2019-01-01,2023-12-01,175.0,175.0,0.0,No Change
+Northern,Jammu and Kashmir,diesel,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Northern,Jammu and Kashmir,thermal_total,2019-01-01,2023-12-01,175.0,175.0,0.0,No Change
+Northern,Jammu and Kashmir,nuclear,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Northern,Jammu and Kashmir,hydro,2019-01-01,2023-12-01,3449.0,3360.0,-89.0,Decrease
+Northern,Jammu and Kashmir,res,2019-01-01,2023-12-01,188.88,216.41,27.53,Increase
+Northern,Jammu and Kashmir,grand_total,2019-01-01,2023-12-01,3812.88,3751.41,-61.470000000000255,Decrease
+Northern,Ladakh,coal,2020-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Northern,Ladakh,gas,2020-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Northern,Ladakh,diesel,2020-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Northern,Ladakh,thermal_total,2020-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Northern,Ladakh,nuclear,2020-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Northern,Ladakh,hydro,2020-01-01,2023-12-01,89.0,89.0,0.0,No Change
+Northern,Ladakh,res,2020-01-01,2023-12-01,0.0,48.79,48.79,Increase
+Northern,Ladakh,grand_total,2020-01-01,2023-12-01,89.0,137.79,48.78999999999999,Increase
+Northern,Punjab,coal,2019-01-01,2023-12-01,5680.0,5680.0,0.0,No Change
+Northern,Punjab,gas,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Northern,Punjab,diesel,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Northern,Punjab,thermal_total,2019-01-01,2023-12-01,5680.0,5680.0,0.0,No Change
+Northern,Punjab,nuclear,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Northern,Punjab,hydro,2019-01-01,2023-12-01,1096.3,1096.3,0.0,No Change
+Northern,Punjab,res,2019-01-01,2023-12-01,1282.42,1973.6,691.1799999999998,Increase
+Northern,Punjab,grand_total,2019-01-01,2023-12-01,8058.72,8749.9,691.1799999999994,Increase
+Northern,Rajasthan,coal,2019-01-01,2023-12-01,8500.0,9200.0,700.0,Increase
+Northern,Rajasthan,gas,2019-01-01,2023-12-01,1023.13,1022.83,-0.2999999999999545,Decrease
+Northern,Rajasthan,diesel,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Northern,Rajasthan,thermal_total,2019-01-01,2023-12-01,9523.13,11802.83,2279.7000000000007,Increase
+Northern,Rajasthan,nuclear,2019-01-01,2023-12-01,1180.0,1180.0,0.0,No Change
+Northern,Rajasthan,hydro,2019-01-01,2023-12-01,411.0,411.0,0.0,No Change
+Northern,Rajasthan,res,2019-01-01,2023-12-01,7573.86,24120.05,16546.19,Increase
+Northern,Rajasthan,grand_total,2019-01-01,2023-12-01,18687.99,37513.88,18825.889999999996,Increase
+Northern,Uttar Pradesh,coal,2019-01-01,2023-12-01,21749.0,24075.0,2326.0,Increase
+Northern,Uttar Pradesh,gas,2019-01-01,2023-12-01,1493.14,1493.14,0.0,No Change
+Northern,Uttar Pradesh,diesel,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Northern,Uttar Pradesh,thermal_total,2019-01-01,2023-12-01,23242.14,25568.14,2326.0,Increase
+Northern,Uttar Pradesh,nuclear,2019-01-01,2023-12-01,440.0,440.0,0.0,No Change
+Northern,Uttar Pradesh,hydro,2019-01-01,2023-12-01,501.6,501.6,0.0,No Change
+Northern,Uttar Pradesh,res,2019-01-01,2023-12-01,2873.61,5011.61,2137.9999999999995,Increase
+Northern,Uttar Pradesh,grand_total,2019-01-01,2023-12-01,27057.35,31521.35,4464.0,Increase
+Northern,Uttarakhand,coal,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Northern,Uttarakhand,gas,2019-01-01,2023-12-01,450.0,664.0,214.0,Increase
+Northern,Uttarakhand,diesel,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Northern,Uttarakhand,thermal_total,2019-01-01,2023-12-01,450.0,664.0,214.0,Increase
+Northern,Uttarakhand,nuclear,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Northern,Uttarakhand,hydro,2019-01-01,2023-12-01,3756.35,4035.35,279.0,Increase
+Northern,Uttarakhand,res,2019-01-01,2023-12-01,590.5,934.09,343.59000000000003,Increase
+Northern,Uttarakhand,grand_total,2019-01-01,2023-12-01,4796.85,5633.44,836.5899999999992,Increase
+Southern,Andhra Pradesh,coal,2019-01-01,2023-12-01,11590.0,13190.0,1600.0,Increase
+Southern,Andhra Pradesh,gas,2019-01-01,2023-12-01,4880.4,4898.54,18.140000000000327,Increase
+Southern,Andhra Pradesh,diesel,2019-01-01,2023-12-01,36.8,36.8,0.0,No Change
+Southern,Andhra Pradesh,thermal_total,2019-01-01,2023-12-01,16507.2,18125.34,1618.1399999999994,Increase
+Southern,Andhra Pradesh,nuclear,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Southern,Andhra Pradesh,hydro,2019-01-01,2023-12-01,1610.0,1610.0,0.0,No Change
+Southern,Andhra Pradesh,res,2019-01-01,2023-12-01,7281.68,9391.95,2110.2700000000004,Increase
+Southern,Andhra Pradesh,grand_total,2019-01-01,2023-12-01,25398.88,29127.29,3728.41,Increase
+Southern,Andhra Pradesh.,coal,2019-03-01,2019-12-01,11590.0,11590.0,0.0,No Change
+Southern,Andhra Pradesh.,gas,2019-03-01,2019-12-01,4880.4,4880.4,0.0,No Change
+Southern,Andhra Pradesh.,diesel,2019-03-01,2019-12-01,36.8,36.8,0.0,No Change
+Southern,Andhra Pradesh.,thermal_total,2019-03-01,2019-12-01,16507.2,16507.2,0.0,No Change
+Southern,Andhra Pradesh.,nuclear,2019-03-01,2019-12-01,0.0,0.0,0.0,No Change
+Southern,Andhra Pradesh.,hydro,2019-03-01,2019-12-01,1610.0,1610.0,0.0,No Change
+Southern,Andhra Pradesh.,res,2019-03-01,2019-12-01,7739.6,8073.67,334.0699999999997,Increase
+Southern,Andhra Pradesh.,grand_total,2019-03-01,2019-12-01,25856.8,26190.87,334.0699999999997,Increase
+Southern,Karnataka,coal,2019-01-01,2023-12-01,9480.0,9480.0,0.0,No Change
+Southern,Karnataka,gas,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Southern,Karnataka,diesel,2019-01-01,2023-12-01,153.12,25.2,-127.92,Decrease
+Southern,Karnataka,thermal_total,2019-01-01,2023-12-01,9633.12,9505.2,-127.92000000000007,Decrease
+Southern,Karnataka,nuclear,2019-01-01,2023-12-01,880.0,880.0,0.0,No Change
+Southern,Karnataka,hydro,2019-01-01,2023-12-01,3644.2,3689.2,45.0,Increase
+Southern,Karnataka,res,2019-01-01,2023-12-01,12953.24,18197.08,5243.840000000002,Increase
+Southern,Karnataka,grand_total,2019-01-01,2023-12-01,27110.56,32271.48,5160.919999999998,Increase
+Southern,Kerala,coal,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Southern,Kerala,gas,2019-01-01,2023-12-01,533.58,533.58,0.0,No Change
+Southern,Kerala,diesel,2019-01-01,2023-12-01,159.96,159.96,0.0,No Change
+Southern,Kerala,thermal_total,2019-01-01,2023-12-01,693.54,693.54,0.0,No Change
+Southern,Kerala,nuclear,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Southern,Kerala,hydro,2019-01-01,2023-12-01,1856.5,1864.15,7.650000000000091,Increase
+Southern,Kerala,res,2019-01-01,2023-12-01,413.01,1194.53,781.52,Increase
+Southern,Kerala,grand_total,2019-01-01,2023-12-01,2963.05,3752.22,789.1699999999996,Increase
+Southern,Lakshadweep,coal,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Southern,Lakshadweep,gas,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Southern,Lakshadweep,diesel,2019-01-01,2023-12-01,0.0,26.83,26.83,Increase
+Southern,Lakshadweep,thermal_total,2019-01-01,2023-12-01,0.0,26.83,26.83,Increase
+Southern,Lakshadweep,nuclear,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Southern,Lakshadweep,hydro,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Southern,Lakshadweep,res,2019-01-01,2023-12-01,0.75,4.97,4.22,Increase
+Southern,Lakshadweep,grand_total,2019-01-01,2023-12-01,0.75,31.8,31.05,Increase
+Southern,Puducherry,coal,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Southern,Puducherry,gas,2019-01-01,2023-12-01,32.5,32.5,0.0,No Change
+Southern,Puducherry,diesel,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Southern,Puducherry,thermal_total,2019-01-01,2023-12-01,32.5,32.5,0.0,No Change
+Southern,Puducherry,nuclear,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Southern,Puducherry,hydro,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Southern,Puducherry,res,2019-01-01,2023-12-01,1.73,43.27,41.540000000000006,Increase
+Southern,Puducherry,grand_total,2019-01-01,2023-12-01,34.23,75.77,41.54,Increase
+Southern,Tamil Nadu,coal,2019-01-01,2023-12-01,12760.0,10045.0,-2715.0,Decrease
+Southern,Tamil Nadu,gas,2019-01-01,2023-12-01,1027.18,1027.18,0.0,No Change
+Southern,Tamil Nadu,diesel,2019-01-01,2023-12-01,211.7,211.7,0.0,No Change
+Southern,Tamil Nadu,thermal_total,2019-01-01,2023-12-01,13998.88,14923.88,925.0,Increase
+Southern,Tamil Nadu,nuclear,2019-01-01,2023-12-01,2440.0,2440.0,0.0,No Change
+Southern,Tamil Nadu,hydro,2019-01-01,2023-12-01,2178.2,2178.2,0.0,No Change
+Southern,Tamil Nadu,res,2019-01-01,2023-12-01,11934.38,19006.27,7071.890000000001,Increase
+Southern,Tamil Nadu,grand_total,2019-01-01,2023-12-01,30551.46,38548.35,7996.889999999999,Increase
+Southern,Telangana,coal,2019-01-01,2023-12-01,7482.5,8642.5,1160.0,Increase
+Southern,Telangana,gas,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Southern,Telangana,diesel,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Southern,Telangana,thermal_total,2019-01-01,2023-12-01,7482.5,8642.5,1160.0,Increase
+Southern,Telangana,nuclear,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Southern,Telangana,hydro,2019-01-01,2023-12-01,2405.6,2405.6,0.0,No Change
+Southern,Telangana,res,2019-01-01,2023-12-01,3805.83,5152.32,1346.4899999999998,Increase
+Southern,Telangana,grand_total,2019-01-01,2023-12-01,13693.93,16200.42,2506.49,Increase
+Western,Chhatisgarh,coal,2019-01-01,2023-12-01,22968.0,23688.0,720.0,Increase
+Western,Chhatisgarh,gas,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Western,Chhatisgarh,diesel,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Western,Chhatisgarh,thermal_total,2019-01-01,2023-12-01,22968.0,23688.0,720.0,Increase
+Western,Chhatisgarh,nuclear,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Western,Chhatisgarh,hydro,2019-01-01,2023-12-01,120.0,120.0,0.0,No Change
+Western,Chhatisgarh,res,2019-01-01,2023-12-01,535.35,1423.24,887.89,Increase
+Western,Chhatisgarh,grand_total,2019-01-01,2023-12-01,23623.35,25231.24,1607.890000000003,Increase
+Western,Dadra & Nagar Haveli,coal,2019-01-01,2021-09-01,0.0,0.0,0.0,No Change
+Western,Dadra & Nagar Haveli,gas,2019-01-01,2021-09-01,0.0,0.0,0.0,No Change
+Western,Dadra & Nagar Haveli,diesel,2019-01-01,2021-09-01,0.0,0.0,0.0,No Change
+Western,Dadra & Nagar Haveli,thermal_total,2019-01-01,2021-09-01,0.0,0.0,0.0,No Change
+Western,Dadra & Nagar Haveli,nuclear,2019-01-01,2021-09-01,0.0,0.0,0.0,No Change
+Western,Dadra & Nagar Haveli,hydro,2019-01-01,2021-09-01,0.0,0.0,0.0,No Change
+Western,Dadra & Nagar Haveli,res,2019-01-01,2021-09-01,5.46,5.46,0.0,No Change
+Western,Dadra & Nagar Haveli,grand_total,2019-01-01,2021-09-01,5.46,5.46,0.0,No Change
+Western,Dadra and Nagar Haveli and Dam,coal,2021-10-01,2023-12-01,0.0,0.0,0.0,No Change
+Western,Dadra and Nagar Haveli and Dam,gas,2021-10-01,2023-12-01,0.0,0.0,0.0,No Change
+Western,Dadra and Nagar Haveli and Dam,diesel,2021-10-01,2023-12-01,0.0,0.0,0.0,No Change
+Western,Dadra and Nagar Haveli and Dam,thermal_total,2021-10-01,2023-12-01,0.0,0.0,0.0,No Change
+Western,Dadra and Nagar Haveli and Dam,nuclear,2021-10-01,2023-12-01,0.0,0.0,0.0,No Change
+Western,Dadra and Nagar Haveli and Dam,hydro,2021-10-01,2023-12-01,0.0,0.0,0.0,No Change
+Western,Dadra and Nagar Haveli and Dam,res,2021-10-01,2023-12-01,46.18,46.47,0.28999999999999915,Increase
+Western,Dadra and Nagar Haveli and Dam,grand_total,2021-10-01,2023-12-01,46.18,46.47,0.28999999999999915,Increase
+Western,Daman & Diu,coal,2019-01-01,2021-09-01,0.0,0.0,0.0,No Change
+Western,Daman & Diu,gas,2019-01-01,2021-09-01,0.0,0.0,0.0,No Change
+Western,Daman & Diu,diesel,2019-01-01,2021-09-01,0.0,0.0,0.0,No Change
+Western,Daman & Diu,thermal_total,2019-01-01,2021-09-01,0.0,0.0,0.0,No Change
+Western,Daman & Diu,nuclear,2019-01-01,2021-09-01,0.0,0.0,0.0,No Change
+Western,Daman & Diu,hydro,2019-01-01,2021-09-01,0.0,0.0,0.0,No Change
+Western,Daman & Diu,res,2019-01-01,2021-09-01,13.38,40.72,27.339999999999996,Increase
+Western,Daman & Diu,grand_total,2019-01-01,2021-09-01,13.38,40.72,27.339999999999996,Increase
+Western,Goa,coal,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Western,Goa,gas,2019-01-01,2023-12-01,48.0,48.0,0.0,No Change
+Western,Goa,diesel,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Western,Goa,thermal_total,2019-01-01,2023-12-01,48.0,48.0,0.0,No Change
+Western,Goa,nuclear,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Western,Goa,hydro,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Western,Goa,res,2019-01-01,2023-12-01,1.74,37.75,36.01,Increase
+Western,Goa,grand_total,2019-01-01,2023-12-01,49.74,85.75,36.01,Increase
+Western,Gujarat,coal,2019-01-01,2023-12-01,15492.0,14692.0,-800.0,Decrease
+Western,Gujarat,gas,2019-01-01,2023-12-01,7551.41,7551.41,0.0,No Change
+Western,Gujarat,diesel,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Western,Gujarat,thermal_total,2019-01-01,2023-12-01,23043.41,23643.41,600.0,Increase
+Western,Gujarat,nuclear,2019-01-01,2023-12-01,440.0,1140.0,700.0,Increase
+Western,Gujarat,hydro,2019-01-01,2023-12-01,1990.0,1990.0,0.0,No Change
+Western,Gujarat,res,2019-01-01,2023-12-01,7882.85,21977.01,14094.159999999998,Increase
+Western,Gujarat,grand_total,2019-01-01,2023-12-01,33356.26,48750.42,15394.159999999996,Increase
+Western,Madhya Pradesh,coal,2019-01-01,2023-12-01,18325.0,22000.0,3675.0,Increase
+Western,Madhya Pradesh,gas,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Western,Madhya Pradesh,diesel,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Western,Madhya Pradesh,thermal_total,2019-01-01,2023-12-01,18325.0,22000.0,3675.0,Increase
+Western,Madhya Pradesh,nuclear,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Western,Madhya Pradesh,hydro,2019-01-01,2023-12-01,2235.0,2235.0,0.0,No Change
+Western,Madhya Pradesh,res,2019-01-01,2023-12-01,4310.45,6272.99,1962.54,Increase
+Western,Madhya Pradesh,grand_total,2019-01-01,2023-12-01,24870.45,30507.99,5637.540000000001,Increase
+Western,Maharashtra,coal,2019-01-01,2023-12-01,25226.0,24006.0,-1220.0,Decrease
+Western,Maharashtra,gas,2019-01-01,2023-12-01,3207.08,3207.08,0.0,No Change
+Western,Maharashtra,diesel,2019-01-01,2023-12-01,0.0,0.0,0.0,No Change
+Western,Maharashtra,thermal_total,2019-01-01,2023-12-01,28433.08,27213.08,-1220.0,Decrease
+Western,Maharashtra,nuclear,2019-01-01,2023-12-01,1400.0,1400.0,0.0,No Change
+Western,Maharashtra,hydro,2019-01-01,2023-12-01,3047.0,3047.0,0.0,No Change
+Western,Maharashtra,res,2019-01-01,2023-12-01,9283.78,13263.73,3979.949999999999,Increase
+Western,Maharashtra,grand_total,2019-01-01,2023-12-01,42163.86,44923.81,2759.949999999997,Increase
