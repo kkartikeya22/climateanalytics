@@ -25,6 +25,8 @@ The analytics provide valuable insights into:
 - Factors influencing peak demand and energy consumption spikes.
 - Predictive models for forecasting energy consumption and demand.
 
+For calculating carbon footprint, you can use this [carbon footprint calculator](https://footprintcarbon.netlify.app/).
+
 ## Conclusion
 
 By leveraging data-driven approaches and advanced analytics techniques, organizations and policymakers can make informed decisions to optimize energy usage, reduce costs, and mitigate environmental impact. The energy consumption analytics project serves as a valuable tool for guiding energy management strategies and sustainability initiatives.
